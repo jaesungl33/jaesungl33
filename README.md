@@ -23,7 +23,6 @@ AI/ML Engineer based in Ho Chi Minh City. I build **production RAG and LLM syste
 
 - 🧠 **Production multilingual (EN–VI) RAG assistant** for game QA / Game Designer workflows @ **VNG**
 - 🔁 **[ragloop](https://github.com/jaesungl33/ragloop)** — agentic RAG with a critic-driven retry loop
-- 📈 **vn-market-mcp** — MCP server for Vietnamese stock market data (SSI FastConnect API)
 - 🎵 **VoiceMark** — AI audio watermarking (AudioSeal + FastAPI), final-year capstone
 - 🏆 Runner-up, GenAI & Cybersecurity Hackathon
 
